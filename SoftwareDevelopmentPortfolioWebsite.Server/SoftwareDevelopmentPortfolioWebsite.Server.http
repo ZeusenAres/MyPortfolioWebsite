@@ -1,0 +1,6 @@
+@SoftwareDevelopmentPortfolioWebsite.Server_HostAddress = http://localhost:5031
+
+GET {{SoftwareDevelopmentPortfolioWebsite.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
